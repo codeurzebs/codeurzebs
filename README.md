@@ -6,5 +6,5 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=%2336BCF7&lines=✔+java+certification)](https://www.hackerrank.com/certificates/812c4907c079)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=%2336BCF7&lines=✔+java+certification)](https://www.hackerrank.com/nguenahaupur)
 </div>
