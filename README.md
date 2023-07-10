@@ -3,6 +3,7 @@
 </a>
 <div align="center">
   <img src="https://raw.githubusercontent.com/NGUENAZEBS/NGUENAZEBS/c60e5035e3ee35b80f97ee70f87c45d379a81fb7/.github/workflows/Private/AchivmentZEB.svg"/>
+  <img src="https://github.com/codeurzebs/codeurzebs/blob/main/.github/workflows/Private/codeurzebsAI.jpg?raw=true" width="500px"/>
 </div>
 <div align="center">
 
