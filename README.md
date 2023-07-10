@@ -25,8 +25,12 @@
 
 ###
 <div align="center">
+  <a href="https://github.com/codeurzebs/GitHub-Achievements">
   <img src="https://raw.githubusercontent.com/NGUENAZEBS/NGUENAZEBS/c60e5035e3ee35b80f97ee70f87c45d379a81fb7/.github/workflows/Private/AchivmentZEB.svg"/>
+  </a>
+  <a href="#">
   <img src="https://github.com/codeurzebs/codeurzebs/blob/main/.github/workflows/Private/codeurzebsAI.jpg?raw=true" width="250px"/>
+  </a>
 </div>
 <div align="center">
 
