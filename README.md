@@ -1,9 +1,14 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🟢+🔴+🟡)](https://github.com/NGcodeX)
 <a href="https://github.com/codeurzebs">![IMAGE](https://raw.githubusercontent.com/codeurzebs/codeurzebs/a600dd8a2d0957340e2e5e6bc0b5936417ef5f19/.github/workflows/Private/ZEBSjava.svg)
 </a>
 <div align="center">
   <a href="https://github.com/codeurzebs">
+  <img src="https://github.com/codeurzebs/codeurzebs/blob/main/.github/workflows/Private/codeurzebsBotAI.png?raw=true" height="60" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
   <img width="12" />
@@ -34,5 +39,5 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=%2336BCF7&lines=✔+java+certification)](https://www.hackerrank.com/nguenahaupur)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=%2336BCF7&lines=👉+New+World,+New+Destination)](https://www.softbankrobotics.com/)
 </div>
