@@ -1,6 +1,6 @@
 <div align="center">
   
-## ...I'm currently learning Angular
+## [...I'm currently learning Angular](https://github.com/codeurzebs/FirstAngularRepos)
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🟢+🔴+🟡)](https://github.com/NGcodeX)
