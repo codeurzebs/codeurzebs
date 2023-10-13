@@ -1,3 +1,7 @@
+<div align="center">
+  
+## ...I'm currently learning Angular
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🟢+🔴+🟡)](https://github.com/NGcodeX)
 <a href="https://github.com/codeurzebs">![IMAGE](https://raw.githubusercontent.com/codeurzebs/codeurzebs/0d326adaa0f7220343fdc7014aeedfd4c0cbc0d5/.github/workflows/Private/ZEBSjava.svg)
