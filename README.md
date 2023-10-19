@@ -1,6 +1,6 @@
 <div align="center">
   
-## [...I'm currently learning Angular](https://github.com/codeurzebs/FirstAngularRepos)
+# ...I'm currently learning: [Angular](https://github.com/codeurzebs/FirstAngularRepos) and [Microsoft Azure AI](https://docs.microsoft.com/en-us/users/NGUENAZEBS-7024/achievements)
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=%2336BCF7&lines=🟢+🔴+🟡)](https://github.com/NGcodeX)
